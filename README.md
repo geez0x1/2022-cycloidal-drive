@@ -1,4 +1,4 @@
-This repository contains Python code and CAD files to (re)create the cycloidal gearing design, and experiments, from our paper _"A 3D-printable low-reduction cycloidal gearbox for robotics"_.
+This repository contains Python code and CAD files to (re)create the cycloidal gearing design, and experiments, from our paper _"3D-printable low-reduction cycloidal gearing for robotics"_.
 
 Contents:
 
